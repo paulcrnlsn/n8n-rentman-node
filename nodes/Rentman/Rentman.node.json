@@ -1,0 +1,4 @@
+{
+	"node": "dist/nodes/Rentman/Rentman.node.js",
+	"type": "n8n-nodes-base.rentman"
+}
