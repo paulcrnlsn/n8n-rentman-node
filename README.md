@@ -1,4 +1,4 @@
-# n8n-nodes-_node-name_
+# n8n-nodes-Rentman
 
 This is an n8n community node. It lets you use the official Rentman REST API in your n8n workflows.
 
